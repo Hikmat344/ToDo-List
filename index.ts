@@ -1,6 +1,7 @@
 import inquirer from "inquirer";
 import chalk from "chalk";
 //import chalkAnimation from "chalk-animation";
+//we will use chakraaui
 
 var loop = true;
 const todos: string[] = [];
